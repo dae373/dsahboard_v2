@@ -1,0 +1,15 @@
+{
+  "project": "tuition-dashboard-react",
+  "framework": "React + TypeScript + Vite",
+  "records": 489,
+  "matchedChangeRecords": 238,
+  "sourceFiles": [
+    "2025등록금.xlsx",
+    "2026등록금.xlsx"
+  ],
+  "notes": [
+    "전문대학 미포함",
+    "기관·캠퍼스 단순평균",
+    "장학금·생활비 미반영"
+  ]
+}
